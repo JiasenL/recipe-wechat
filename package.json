@@ -1,0 +1,12 @@
+{
+  "id": "wechat",
+  "name": "WeChat",
+  "version": "1.0.0",
+  "description": "WeChat",
+  "main": "index.js",
+  "author": "Jiasen <jiasenlow@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://web.wechat.com/"
+  }
+}

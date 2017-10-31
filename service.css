@@ -1,0 +1,8 @@
+.main{
+  height: 100%;
+  padding-top: 0;
+}
+
+.main_inner{
+  max-width:none;
+}
